@@ -85,7 +85,7 @@ Building data-driven marketing intelligence systems & business analytics solutio
 
 ---
 
-# 📂 Current Focus
+# 💻 Current Focus
 
 ```python
 class KaranDayalan():
@@ -112,8 +112,6 @@ class KaranDayalan():
 
 me = KaranDayalan()
 print(me.build_projects())
-```
-
 ---
 
 # 📊 GitHub Analytics
